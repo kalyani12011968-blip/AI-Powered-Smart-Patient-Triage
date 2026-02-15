@@ -1,0 +1,2 @@
+patient_id,risk,department,confidence,BP,pre_conditions,symptoms,Heart Rate,Timestamp,Body Temperature,Age,Gender,Weight (kg),Height (m),risk_score
+P001,High Risk,Emergency,60.0%,120/80,None,Stomach Ache,79,2024-03-03 00:14:46.247,98,65,Male,70.0,175.0,0
